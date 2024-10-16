@@ -260,7 +260,7 @@ span {
 
   76%,
   100% {
-    content: "Web Developer";
+    content: "Full Stack Developer";
   }
 
   /* 81%,
@@ -555,6 +555,11 @@ span {
   gap: 3rem;
   margin: 5rem auto;
   text-align: center;
+}
+
+.input-group {
+  display: flex;
+  justify-content: center;
 }
 
 .contact form .input-box {
